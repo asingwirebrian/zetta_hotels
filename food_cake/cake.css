@@ -1,0 +1,30 @@
+.main-div{
+  background: url("../cake_kush/mohamed-ajufaan-GFcWwwGNu_w-unsplash@2x.png");
+  padding: 24px;
+}
+.div-span{
+  text-align: right;
+  display: inline-block;
+  padding: 0 32px 0 0;
+  color: white;
+}
+.div-span-main{
+  color: white;
+  padding: 0 700px 0 0;
+}
+.main-hush{
+  padding: 12px;
+}
+.main-section{
+  color: #5863F8;
+  display: inline-block;
+  
+}
+.div-section-trk{
+  font-size: 16px;
+  display: inline-block;
+  padding: 0 50px 0 0;
+}
+.danger{
+  display: flexbox;
+}
